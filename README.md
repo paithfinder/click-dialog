@@ -1,4 +1,6 @@
-# beauty-box
+### 通过点击控制弹框的出现和隐藏，点击具体位置出现对应弹框，第二次点击任意位置实现弹框消失的效果
+### vue
+# click-dialog
 
 ## Project setup
 ```
